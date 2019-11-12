@@ -1,0 +1,30 @@
+﻿  Game.cpp
+C:\Users\c00242827\Desktop\sfmlstarter\sfmlstarter\Game.cpp(63,11): warning C4244:  'initializing': conversion from 'T' to 'float', possible loss of data
+C:\Users\c00242827\Desktop\sfmlstarter\sfmlstarter\Game.cpp(63,11): warning C4244:         with
+C:\Users\c00242827\Desktop\sfmlstarter\sfmlstarter\Game.cpp(63,11): warning C4244:         [
+C:\Users\c00242827\Desktop\sfmlstarter\sfmlstarter\Game.cpp(63,11): warning C4244:             T=double
+C:\Users\c00242827\Desktop\sfmlstarter\sfmlstarter\Game.cpp(63,11): warning C4244:         ]
+C:\Users\c00242827\Desktop\sfmlstarter\sfmlstarter\Game.cpp(134,23): warning C4244:  '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\c00242827\Desktop\sfmlstarter\sfmlstarter\Game.cpp(134,23): warning C4244:         with
+C:\Users\c00242827\Desktop\sfmlstarter\sfmlstarter\Game.cpp(134,23): warning C4244:         [
+C:\Users\c00242827\Desktop\sfmlstarter\sfmlstarter\Game.cpp(134,23): warning C4244:             T=float
+C:\Users\c00242827\Desktop\sfmlstarter\sfmlstarter\Game.cpp(134,23): warning C4244:         ]
+C:\Users\c00242827\Desktop\sfmlstarter\sfmlstarter\Game.cpp(181,61): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\c00242827\Desktop\sfmlstarter\sfmlstarter\Game.cpp(181,61): warning C4244:         with
+C:\Users\c00242827\Desktop\sfmlstarter\sfmlstarter\Game.cpp(181,61): warning C4244:         [
+C:\Users\c00242827\Desktop\sfmlstarter\sfmlstarter\Game.cpp(181,61): warning C4244:             T=int
+C:\Users\c00242827\Desktop\sfmlstarter\sfmlstarter\Game.cpp(181,61): warning C4244:         ]
+C:\Users\c00242827\Desktop\sfmlstarter\sfmlstarter\Game.cpp(181,61): warning C4244:         and
+C:\Users\c00242827\Desktop\sfmlstarter\sfmlstarter\Game.cpp(181,61): warning C4244:         [
+C:\Users\c00242827\Desktop\sfmlstarter\sfmlstarter\Game.cpp(181,61): warning C4244:             T=float
+C:\Users\c00242827\Desktop\sfmlstarter\sfmlstarter\Game.cpp(181,61): warning C4244:         ]
+C:\Users\c00242827\Desktop\sfmlstarter\sfmlstarter\Game.cpp(181,44): warning C4244:  'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\c00242827\Desktop\sfmlstarter\sfmlstarter\Game.cpp(181,44): warning C4244:         with
+C:\Users\c00242827\Desktop\sfmlstarter\sfmlstarter\Game.cpp(181,44): warning C4244:         [
+C:\Users\c00242827\Desktop\sfmlstarter\sfmlstarter\Game.cpp(181,44): warning C4244:             T=int
+C:\Users\c00242827\Desktop\sfmlstarter\sfmlstarter\Game.cpp(181,44): warning C4244:         ]
+C:\Users\c00242827\Desktop\sfmlstarter\sfmlstarter\Game.cpp(181,44): warning C4244:         and
+C:\Users\c00242827\Desktop\sfmlstarter\sfmlstarter\Game.cpp(181,44): warning C4244:         [
+C:\Users\c00242827\Desktop\sfmlstarter\sfmlstarter\Game.cpp(181,44): warning C4244:             T=float
+C:\Users\c00242827\Desktop\sfmlstarter\sfmlstarter\Game.cpp(181,44): warning C4244:         ]
+  sfmlstarter.vcxproj -> C:\Users\c00242827\Desktop\sfmlstarter\Debug\sfmlstarter.exe
